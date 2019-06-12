@@ -17,7 +17,6 @@ from bs4 import BeautifulSoup
 import sys
 from mysql_DBUtils import mysql
 
-
 # 写入数据库
 def write_db(param):
     try:

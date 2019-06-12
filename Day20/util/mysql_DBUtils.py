@@ -12,7 +12,6 @@ import pymysql, os, configparser
 from pymysql.cursors import DictCursor
 from DBUtils.PooledDB import PooledDB
 
-
 class Config(object):
     """
     # Config().get_content("user_information")
