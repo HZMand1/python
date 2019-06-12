@@ -8,7 +8,6 @@
 # @Time    : 2019/6/12 11:37
 # @Author  : iByte
 
-# -*- coding:UTF-8 -*-
 import redis
 import time
 
