@@ -8,8 +8,6 @@
 # @Time    : 2019/6/12 10:28
 # @Author  : iByte
 
-
-# -*- coding: utf-8 -*-
 # import 进openCV的库
 import cv2
 import os
