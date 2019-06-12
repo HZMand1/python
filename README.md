@@ -3,7 +3,7 @@
 > python 3.7
 
 #### 专栏地址
-- https://www.jianshu.com/c/e420f3140cbf
+- Python开发 https://www.jianshu.com/c/e420f3140cbf
 
 #### 功能新增/修改记录
 | 时间   |   更新记录 |
