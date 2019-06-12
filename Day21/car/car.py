@@ -12,7 +12,6 @@ import os
 import cv2
 import numpy as np
 
-
 # 预处理
 def imgProcess(path):
     img = cv2.imread(path)
