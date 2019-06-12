@@ -9,6 +9,7 @@
 # @Author  : iByte
 import numpy as np
 
+
 """
 以下实例获取数组中(0,0)，(1,1)和(2,0)位置处的元素。
 """
