@@ -19,7 +19,7 @@ class TestRedis:
     def openRedis(self):
         # 连接redis，加上decode_responses=True，写入的键值对中的value为str类型，不加这个参数写入的则为字节类型。
         # r = redis.Redis(host=u'127.0.0.1', port=6379, db=0)
-        pool = redis.ConnectionPool(host='192.168.50.23', port=6379, db=9,password="",decode_responses=True)  # 使用连接池
+        pool = redis.ConnectionPool(host='192.168.50.23', port=6379, db=9,password="landray123",decode_responses=True)  # 使用连接池
         self.dbconn = redis.Redis(connection_pool=pool)
 
     def addKey(self, Key, Value):

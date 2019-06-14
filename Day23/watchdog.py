@@ -21,14 +21,14 @@ sudo pip3 install wechat_sender
 """
 
 bot = Bot()
-my_friend = bot.friends().search('监控狗')[0]
+my_friend = bot.friends().search('iByte·38 °C')[0]
 
 
 # 调用摄像头检测人脸并截图
 def camera(window_name, path_name):
 
     # Linux 不显示图形界面
-    # cv2.namedWindow(window_name)
+    #cv2.namedWindow(window_name)
 
     # 视频来源，来自USB摄像头
     cap = cv2.VideoCapture(0)

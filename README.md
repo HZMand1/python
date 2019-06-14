@@ -1,7 +1,13 @@
 即使之前你从未写过1行代码，也能在学完本课程后，达到Python入门水平，能开发300-500行代码的小程序，掌握基本的编程思维、软件设计方法。无论你日后想做人工智能、数据分析，还是WEB开发、爬虫、大数据等，都应该先把这部分基础掌握
-#### 版本说明
-- 系列脚本主要 python 3.7为主,部分有2 系列的讲解说明
-> #### python 3.7
+
+#### 项目介绍
+各种开发案例，不定期更新。
+
+| 软件 | 版本  | 功能|   地址|
+| ---- | ----- |----- |----- |
+|   Python   |  3.7.1 |  脚本语言   | https://www.python.org/  |
+|   Django   | 2.1.3 |   Web框架|  https://www.djangoproject.com/ |
+|   PyCharm| 2018.2.4 |  可视化开发工具| http://www.jetbrains.com/pycharm/  |
 
 #### 专栏地址
 - Python开发 https://www.jianshu.com/c/e420f3140cbf
