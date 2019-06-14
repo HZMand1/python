@@ -39,9 +39,10 @@
 |2019年6月11日 | python 打造智能闹钟                      |https://gitee.com/icloud-iot/python/tree/master/Day22    |
 |2019年6月12日 | Python 人脸识别并微信推送识别结果        |https://gitee.com/icloud-iot/python/tree/master/Day23    |
 |2019年6月13日 | Python 字符/路径/循环空间For各种处理方式  |https://gitee.com/icloud-iot/python/tree/master/Day25|  | |
+|2019年6月14日 | Python 依赖包关系|Excel|集合空间|文件操作处理  |https://gitee.com/icloud-iot/python/tree/master/Day00|  | |
 
 ####  欢迎关注"码农架构"微信公众号，将不定期更新，专注于系统架构、高可用、高性能、高并发类技术分享
-![码农架构](https://images.gitee.com/uploads/images/2019/0518/141536_4ab2eecb_1468963.png "屏幕截图.png")![输入图片说明](https://images.gitee.com/uploads/images/2019/0614/105301_775f1bb3_1468963.png "屏幕截图.png")
+![码农架构](https://images.gitee.com/uploads/images/2019/0518/141536_4ab2eecb_1468963.png "屏幕截图.png")
 
 
 ##  淘宝镜像
