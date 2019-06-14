@@ -43,4 +43,16 @@
 ####  欢迎关注"码农架构"微信公众号，将不定期更新，专注于系统架构、高可用、高性能、高并发类技术分享
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0518/141536_4ab2eecb_1468963.png "屏幕截图.png")
 
-#### 参考地址
+##  淘宝镜像
+
+https://npm.taobao.org/
+
+## 参考学习
+
+https://www.python.org/
+
+https://docs.djangoproject.com/
+
+http://www.jetbrains.com/pycharm/
+
+http://www.runoob.com/python3/python3-tutorial.html
