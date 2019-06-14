@@ -42,7 +42,7 @@
 |2019年6月14日 | Python 依赖包关系|Excel|集合空间|文件操作处理  |https://gitee.com/icloud-iot/python/tree/master/Day00|  | |
 
 ####  欢迎关注"码农架构"微信公众号，将不定期更新，专注于系统架构、高可用、高性能、高并发类技术分享
-![码农架构](https://images.gitee.com/uploads/images/2019/0518/141536_4ab2eecb_1468963.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0615/032544_4b688ef0_1468963.jpeg "微信公众号宣传副本.jpg")
 
 
 ##  淘宝镜像
