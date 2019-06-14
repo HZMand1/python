@@ -22,7 +22,7 @@ if __name__ == '__main__':
         print(u'当前水果 :', fruits[index])
 
     list = [1, 2, 3, 4, 5, 6, 7]
-    # xrange是一个生成器,在操作大量数据的时候不会上来开辟一块很大的内纯空间,形内较好
+    # range是一个生成器,在操作大量数据的时候不会上来开辟一块很大的内纯空间,形内较好
     for i in range(0, 7, 2):
         print(list[i:i + 2])
 
