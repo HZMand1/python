@@ -68,12 +68,12 @@ if __name__ == '__main__':
 
     while True:
         option = input(hint)  # 获取IO输入的值
-        if cmp(option, '1') == 0:
+        if operator(option, '1') == 0:
             create()
-        elif cmp(option, '2') == 0:
+        elif operator(option, '2') == 0:
             deleteNullFile()
-        elif cmp(option, '3') == 0:
-            minSize = raw_input("minSize(K):")
+        elif operator(option, '3') == 0:
+            minSize = input("minSize(K):")
             deleteBySize(minSize)
         elif cmp(option, 'q') == 0:
             print
