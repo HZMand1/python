@@ -68,7 +68,7 @@ if __name__ == '__main__':
 
     while True:
         option = input(hint)  # 获取IO输入的值
-        if operator(option, '1') == 0:
+        if operator.le(option, '1'):
             create()
         elif operator(option, '2') == 0:
             deleteNullFile()
