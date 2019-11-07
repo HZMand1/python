@@ -56,4 +56,4 @@ http://www.jetbrains.com/pycharm/
 
 http://www.runoob.com/python3/python3-tutorial.html
 
-## 本仓库地址属于个人代码空间。不喜欢勿喷，出门请左转！
+## 本仓库地址属于个人学习使用！
