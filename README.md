@@ -41,8 +41,6 @@
 |2019年6月13日 | Python 字符/路径/循环空间For各种处理方式  |https://gitee.com/icloud-iot/python/tree/master/Day25|  | |
 |2019年6月14日 | Python 依赖包关系|Excel|集合空间|文件操作处理  |https://gitee.com/icloud-iot/python/tree/master/Day00|  | |
 
-####  欢迎关注"码农架构"微信公众号，将不定期更新，专注于系统架构、高可用、高性能、高并发类技术分享
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0615/033444_48cf25d3_1468963.jpeg "微信公众号宣传副本.jpg")
 
 ##  淘宝镜像
 
@@ -57,3 +55,5 @@ https://docs.djangoproject.com/
 http://www.jetbrains.com/pycharm/
 
 http://www.runoob.com/python3/python3-tutorial.html
+
+## 本仓库地址属于个人代码空间。不喜欢勿喷，出门请左转！
