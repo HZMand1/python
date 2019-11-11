@@ -10,7 +10,7 @@
 |   PyCharm| 2018.2.4 |  可视化开发工具| http://www.jetbrains.com/pycharm/  |
 
 ## 目录说明
--[x] Python 开发案例 (适合初学者)
+- [x] Python 开发案例 (适合初学者)
 
 ##  淘宝镜像
 https://npm.taobao.org/
