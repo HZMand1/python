@@ -1,5 +1,8 @@
-# 检查用户主目录中是否存在目录，如果不存在，则创建它
-
+"""
+检查用户主目录中是否存在目录，如果不存在，则创建它
+"""
+__author__ = 'iByte'
+__version__ = '1.0'
 import os
 
 MESSAGE = 'The directory already exists.'
