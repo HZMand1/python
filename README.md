@@ -10,8 +10,9 @@ IT 行业相对于一般传统行业，发展更新速度更快，一旦停止�
 |   PyCharm| 2018.2.4 |  可视化开发工具| http://www.jetbrains.com/pycharm/  |
 
 ## 目录说明
-- [x] [Python 开发案例 (适合初学者)](https://gitee.com/icloud-iot/python/tree/master/python%20%E5%BC%80%E5%8F%91%E6%A1%88%E4%BE%8B)
-- [x] 
+- [x] [Python 基础开发案例 (适合初学者)](https://gitee.com/icloud-iot/python/tree/master/python%20%E5%9F%BA%E7%A1%80%E5%BC%80%E5%8F%91%E6%A1%88%E4%BE%8B)
+- [x] [Python 小程序开发](https://gitee.com/icloud-iot/python/tree/master/python%20%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91)
+- [ ] [Python 机器学习](https://gitee.com/icloud-iot/python/tree/master/python%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 ##  淘宝镜像
 https://npm.taobao.org/
 
